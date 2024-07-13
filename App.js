@@ -4,7 +4,7 @@ const parent = React.createElement(
   React.createElement(
     "div",
     { id: "child" },
-    React.createElement("h3", { id: "heading3" }, "hello sturctured react")
+    React.createElement("h3", { id: "heading" }, "hello sturctured react")
   )
 );
 
